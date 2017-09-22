@@ -113,7 +113,7 @@ Highcharts.chart('weather-container', {
                 },
             
                 title: {
-                    text: 'Annual Weather Averages Near Kyiv'
+                    text: 'Averages are for Kyiv, which is 7 kilometers from Kyiv.'
                 },
             
                 subtitle: {
