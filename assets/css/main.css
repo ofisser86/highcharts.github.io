@@ -39,3 +39,10 @@ html {
 #container {
 	width: 100%;
 }
+.title-charts {
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+.weather{
+  margin-bottom: 30px;
+}

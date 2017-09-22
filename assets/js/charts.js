@@ -1,4 +1,4 @@
-Highcharts.chart('container', {
+var taobi = Highcharts.chart('container', {
     credits: {
         enabled: false
   },
